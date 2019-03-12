@@ -8,7 +8,7 @@ Anton, Lych
    
   I want to get as much experience as possible from these courses and am ready to work hard to become a good front-end developer. In my opinion, this is a very interesting branch of programming and I really want to do it. Since I have very bad knowledge in this area at the moment I will write **trash** in the next paragraphs.
 
- ### My skills:
+ *** My skills:
  * HTML and CSS (including Grid and CSS frameworks, W3C and WHATWG specifications, HTML5 / CSS3 Polyfills)
  * CSS Preprocessors (Sass, Less, Stylus)
  * Javascript
@@ -27,7 +27,7 @@ Anton, Lych
  * Graphic editors (Photoshop, Illustrator)
  
  
- ### Code examples:
+ *** Code examples:
  
 ```
     function coddingex() {
@@ -37,11 +37,11 @@ Anton, Lych
 ```  
 
 
- ### Experience:
+ *** Experience:
  I have very rich experience.
 
- ### Education:
+ *** Education:
  HTMLAcademy + Codeacademy)
 
- ### English level:
+ *** English level:
  For now A2. School + University, but I educate myself.
