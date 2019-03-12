@@ -1,0 +1,46 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+div, p, a {
+	box-sizing: border-box;
+    height: 100%;
+}
+
+header, main {
+	width: 1024px;
+    height: 100%;
+	margin: 0 auto;
+}
+
+.summary p {
+    width: 400px;
+}
+
+header {
+    margin-top: 20px;
+}
+
+.left {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 60px;
+}
+
+.right {
+    display: inline-block;
+    margin-left: 80px;
+}
+
+.experience {
+    padding-bottom: 30px;
+}
+
+.education {
+    padding-bottom: 30px;
+}
+
+main {
+    padding-bottom: 50px;
+}
