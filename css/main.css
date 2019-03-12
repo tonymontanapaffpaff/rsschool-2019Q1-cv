@@ -33,6 +33,12 @@ header {
     margin-left: 80px;
 }
 
+hr {
+    width: 300px;
+    margin-top: 10px;
+    float: left;
+}
+
 .experience {
     padding-bottom: 30px;
 }
